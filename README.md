@@ -72,6 +72,8 @@ ResQHer is a wearable IoT device built using **ESP32** that enables users to tri
 Developed as part of an **IoT Safety Innovation Project**.
 
 Team Member: **Likhitha B. S**
+            **Vaishnavi Pandith**
+            **Ananya B M**
 
 ---
 
